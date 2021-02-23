@@ -21,7 +21,7 @@ const App = () => {
         { username: dataState.data[2].username }
       ]
     })
-  }
+  } 
 
   const EventHandler = (newValue) => {
     setDataState({
