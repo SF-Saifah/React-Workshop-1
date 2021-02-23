@@ -1,0 +1,10 @@
+.output {
+    width: 40%;
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 12px;
+    border-left: 7px solid green;
+}
